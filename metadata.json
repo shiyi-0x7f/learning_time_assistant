@@ -1,0 +1,6 @@
+{
+  "name": "学习计划助手",
+  "description": "家长输入学期知识点数量、截止日期与每日学习时间，自动生成每天的针对性学习计划。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
